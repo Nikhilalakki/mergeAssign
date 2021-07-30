@@ -1,0 +1,1 @@
+print("Notepad created python file A")
